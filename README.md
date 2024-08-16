@@ -16,7 +16,7 @@
 ## Try it Out!
 
 Explore **Chat with PDF** now:
-[Launch Chat with PDF App](https://your-app-link.streamlit.app/)
+[Launch Chat with PDF App](https://chat--with-pdf.streamlit.app/)
 
 ## Getting Started
 
