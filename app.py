@@ -39,7 +39,7 @@ def get_vector_store(text_chunks):
 
 def get_conversational_chain():
     prompt_template = """
-    Summary the context in the pdf create your own sentence Answer the question as detailed as possible from the provided context use that reference  and use your own tools also and describe the context and provide related answer. Make sure to provide all the details. 
+    Answer the question as detailed as possible from the provided context use that reference  and use your own tools also and describe the context and provide related answer. Make sure to provide all the details. 
     If the answer is not in the provided context, just say, "The answer is not available in the context." Do not provide a wrong answer.\n\n
     Context:\n {context}\n
     Question: \n{question}\n
